@@ -209,7 +209,7 @@ src/
     └── asyncHandler.ts     # Async error wrapper
 ```
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -219,7 +219,7 @@ src/
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details. -->
 
 <!-- ## ✨ Future Enhancements
 
